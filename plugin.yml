@@ -1,24 +1,12 @@
 ---
-name: Nicknames
+name: Nickname
 version: 3.1.0
-api: 3.0.0
-main: Nick2\Nick
-author: ElektroPrinz & Sub-Author is Jes'kad Ad'aryc
-description: Adds Nicknames to your server.
+api: 3.15.0
+main: Nickname\Nick
+author: ElektroPrinz
+authors: [ElektroPrinz, KadTheHunter]
+description: Nickname plugin for PocketMine-MP
 depend: [PureChat]
-permissions:
-  nick.help:
-    default: true
-  nick.set:
-    default: true
-  nick.reset:
-    default: true
-  nick.see:
-    default: op
-  nick.admin.set:
-    default: op
-  nick.admin.reset:
-    default: op
 commands:
   nick:
     description: Nick main command

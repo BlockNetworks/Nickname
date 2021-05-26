@@ -48,10 +48,10 @@ no-run-in-console: "§eAll commands must be used in-game!"
 
 # Help page
 help-header: "§eNick -- Help"
-help-command-colour: "§e"
-help-usage-colour: "§a"
-help-two-points-colour: "§f"
-help-description-colour: "§f"
+help-command-color: "§e"
+help-usage-color: "§a"
+help-two-points-color: "§f"
+help-description-color: "§f"
 
 # Set
 set: "§aNick successfully set"
