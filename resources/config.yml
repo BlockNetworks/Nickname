@@ -1,17 +1,14 @@
 ---
 # Config file for Nick
-# Nick (c) 2016 AryToNeX
-# Edited by ElektroPrinz
-# Edited more and fixed up by Jes'kad Ad'aryc (LegoFan48737)
 
-# Keeps the nick after leave/login/server closed/thermonuclear war
+# Keeps the nick after leave/login/server
 # Boolean parameter (true, false)
 keep-nick: true
 
 # Commands
 # Here you can customize commands and descriptions!
 
-help-command: "help" # No description for it *sad help command*
+help-command: "help"
 
 set-command: "set"
 set-usage: "<nick>"
